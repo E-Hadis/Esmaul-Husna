@@ -1,11 +1,17 @@
 # Allah'ın Adı
 
-## Anlamı
+### Anlamı
 
-## Açıklama
+### Açıklama
 
-## Kur’ân’da Geçtiği Yerler
+### Kur’ân’da Geçtiği Yerler
 
-## Bu İsimle Dua
+### Hadislerde Geçtiği Yerler
 
-## Notlar
+### Dualar
+
+### Kaynak
+---
+
+### Önemli Not
+*Kuranda ve Hadislerde Geçen Yerlerde Kaynak Verilmesi Zorunludur !*
