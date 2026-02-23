@@ -13,6 +13,13 @@ Allah’ın isimleri 99 ile sınırlı değildir. Hadiste zikredilen doksan doku
 
 İsimlerin Anlamları, Hadis Örnekler, Mealler, Kaynaklar Ehli Sünnet itikatına göre verilmiş ve bu doğrultada devam edecektir.
 
+## Yayın Politikası
+
+Bu projede yer alan içerikler belirli aralıklarla gözden geçirilerek  
+https://e-hadis.net platformunda yayınlanacaktır.
+
+Yayın sürecinde gerekli editöryal düzenlemeler yapılabilir.
+
 ## Allah'ın İsimleri
 
 ### 1. [Allah](./names/allah.md)
