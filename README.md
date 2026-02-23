@@ -7,3 +7,7 @@ Hz. Peygamber (s.a.s.), Yüce Allah’ın doksan dokuz isminden söz etmiş ve b
 Allah’ı güzel isimleriyle tanımak, O’na iman etmek, ibadet etmek ve hayatı bu bilinçle yaşamayı ifade eder.
 
 Allah’ın isimleri 99 ile sınırlı değildir. Hadiste zikredilen doksan dokuz isim, Allah’ın en meşhur ve en çok bilinen isimleridir. Nitekim Tirmizî ve İbn Mâce’nin rivayetlerinde bu isimler tek tek sayılmıştır.
+
+## Allah'ın İsimleri
+
+1. [Allah](./names/allah.md)
