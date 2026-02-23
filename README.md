@@ -8,6 +8,12 @@ Allah’ı güzel isimleriyle tanımak, O’na iman etmek, ibadet etmek ve hayat
 
 Allah’ın isimleri 99 ile sınırlı değildir. Hadiste zikredilen doksan dokuz isim, Allah’ın en meşhur ve en çok bilinen isimleridir. Nitekim Tirmizî ve İbn Mâce’nin rivayetlerinde bu isimler tek tek sayılmıştır.
 
+---
+
+İsimlerin Anlamları, Hadis Örnekler, Mealler, Kaynaklar Ehli Sünnet itikatına göre verilmiş ve bu doğrultada devam edecektir.
+
 ## Allah'ın İsimleri
 
 1. [Allah](./names/allah.md)
+2. [Er-Rahman](./names/er-rahman.md)
+3. [Er-Rahim](./names/er-rahim.md)
