@@ -15,6 +15,6 @@ Allah’ın isimleri 99 ile sınırlı değildir. Hadiste zikredilen doksan doku
 
 ## Allah'ın İsimleri
 
-1. [Allah](./names/allah.md)
-2. [Er-Rahman](./names/er-rahman.md)
-3. [Er-Rahim](./names/er-rahim.md)
+### 1. [Allah](./names/allah.md)
+### 2. [Er-Rahman](./names/er-rahman.md)
+### 3. [Er-Rahim](./names/er-rahim.md)
