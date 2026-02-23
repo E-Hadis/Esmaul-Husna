@@ -22,12 +22,12 @@ Kur’ân’da en çok geçen ilâhî isim “Allah” lafzıdır.
 ### Hadislerde Geçtiği Yerler
 - Allah ismi bir çok hadiste geçmektedir.
 
+### Dualar
+
+Bütün dualarda Allah ismi kullanılabilir.
+
 ### Notlar
 - *ma'büd* : Kayıtsız şartsız kulluk edilmeye layık olan, kendisine ibadet olunan Allah. 
 - *kemal sıfat* : Kusursuz ve noksansız olmak
 - Bu isim, Esmâü’l Hüsnâ’nın en kapsamlı ismidir.
 - **Allah** ismi çoğul yapılmaz ve başka varlıklar için kullanılmaz.
----
-
-### Önemli Not
-*Kuranda ve Hadislerde Geçen Yerlerde Kaynak Verilmesi Zorunludur !*
