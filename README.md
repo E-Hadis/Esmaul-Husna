@@ -25,3 +25,4 @@ Yayın sürecinde gerekli editöryal düzenlemeler yapılabilir.
 ### 1. [Allah](./names/allah.md)
 ### 2. [Er-Rahman](./names/er-rahman.md)
 ### 3. [Er-Rahim](./names/er-rahim.md)
+### 4. [El-Melik](./names/el-melik.md)
