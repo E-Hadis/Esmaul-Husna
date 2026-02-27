@@ -22,7 +22,7 @@ Rahman ismi bazı kaynaklarda kur'anı kerimde 57 defa geçtiği bildirilmiştir
 
 - Bir kudsî hadiste:
 “Ben Rahmân’ım. Rahmi (akrabalık bağını) yarattım ve ona kendi ismimden bir isim verdim...”
-*(Tirmizî, Birr, 16; Ebû Dâvûd, Zekât, 45)*
+*(Tirmizî, Birr, 9)*
 
 ### Notlar
 
