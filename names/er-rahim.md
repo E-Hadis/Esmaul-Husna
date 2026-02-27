@@ -16,13 +16,6 @@ Rahim ismi bazı kaynaklarda kur'anı kerimde 114 defa geçtiği bildirilmiştir
 
 ### Hadislerde Geçtiği Yerler
 
-- Hz. Peygamber (s.a.s.) şöyle buyurmuştur:
-“Allah, kullarına rahmet eden en merhametli olarak Rahîm’dir.”
-*(Buhârî, Edeb, 19; Müslim, Tevbe, 17)*
-
-- Bir kudsî hadiste:
-“Ben Rahîm’im. Rahmetimi, iman eden kullarıma özel kıldım ve onları korudum.”
-*(Tirmizî, Birr, 16; Ebû Dâvûd, Zekât, 45)*
 
 ### Notlar
 
