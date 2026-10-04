@@ -24,6 +24,6 @@ Tesbih (sübhanallah) ifadesiyle doğrudan bağlantılıdır; "Sübhanallah" ifa
 Bu isim, kulun hem zahirini hem batınını günahlardan temizlemesi gerektiğine işaret eder.
 
 ### Dualar
-"Ya Kuddüs, bizleri maddi ve manevi kirlerden arındır."
-"Ya Kuddüs, kalplerimizi şirkten, küfürden ve nifaktan temizle."
-"Ya Kuddüs, bize kendi katından bir temizlik ve manevi arınma ihsan eyle."
+Ya Kuddüs, bizleri maddi ve manevi kirlerden arındır.
+Ya Kuddüs, kalplerimizi şirkten, küfürden ve nifaktan temizle.
+Ya Kuddüs, bize kendi katından bir temizlik ve manevi arınma ihsan eyle.
