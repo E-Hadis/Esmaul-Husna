@@ -16,12 +16,12 @@ Kuddüs ismi Kur'ân-ı Kerîm'de iki yerde geçmektedir:
 ### Hadislerde Geçtiği Yerler
 
 ### Notlar
-Kuddüs ismi "Mukaddes" (kutsal kılınmış) ile aynı kökten gelir.
-Kökü: ق-د-س (k-d-s), temizlik, kutsallık, bereket.
-Meleklerin "nûrun mukaddes" (kutsal ışık) olarak nitelendirilmesi de aynı köktendir.
-Kuddûs şeklinde de okunabilir.
-Tesbih (sübhanallah) ifadesiyle doğrudan bağlantılıdır; "Sübhanallah" ifadesi "Allah'ı Kuddüs ismiyle, yani her türlü noksanlıktan tenzih ederim" anlamına gelir.
-Bu isim, kulun hem zahirini hem batınını günahlardan temizlemesi gerektiğine işaret eder.
+- Kuddüs ismi "Mukaddes" (kutsal kılınmış) ile aynı kökten gelir.
+- Kökü: ق-د-س (k-d-s), temizlik, kutsallık, bereket.
+- Meleklerin "nûrun mukaddes" (kutsal ışık) olarak nitelendirilmesi de aynı köktendir.
+- Kuddûs şeklinde de okunabilir.
+- Tesbih (sübhanallah) ifadesiyle doğrudan bağlantılıdır; "Sübhanallah" ifadesi "Allah'ı Kuddüs ismiyle, yani her türlü noksanlıktan tenzih ederim" anlamına gelir.
+- Bu isim, kulun hem zahirini hem batınını günahlardan temizlemesi gerektiğine işaret eder.
 
 ### Dualar
 - Ya Kuddüs, bizleri maddi ve manevi kirlerden arındır.
