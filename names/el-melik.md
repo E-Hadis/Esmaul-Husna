@@ -16,7 +16,7 @@ Melik ismi Kur'ân-ı Kerîm'de birden fazla kez geçmektedir:
 2. "Yüce Allah, hak Melik ne yücedir! O'ndan başka ilâh yoktur, şerefli Arş'ın Rabbidir." *(Mü'minûn, 23/116)*
 3. "O gün gerçek mülk, Rahmân'ındır. O gün kâfirler için çok çetin bir gündür." *(Furkan, 25/26)*
 4. "De ki: 'Ey mülkün sahibi Allah'ım! Sen mülkü dilediğine verirsin, dilediğinden de mülkü çeker alırsın. Dilediğini aziz edersin, dilediğini zelil edersin. Hayır yalnız Senin elindedir. Şüphesiz Sen her şeye kadirsin.'" *(Âl-i İmrân, 3/26)*
-5. "Mülk o gün kimin olacak? Bir olan, kahredici olan Allah'ındır." *(Mü'min/Ğafir, 40/16)*
+5. "Mülk o gün kimin olacak? Bir olan, Kahhar olan Allah'ındır." *(Mü'min/Ğafir, 40/16)*
 
 ### Hadislerde Geçtiği Yerler
 
